@@ -1,3 +1,18 @@
+RESPONSIVE PORTFOLIO:
+
+The requirement of this project covered all necessary topics and features those are important in Bootstrap. Definitely required a lot of GooleFi realizing there could be multiple solutions to one problem.
+
+I felt this expercise was fun and very rewarding once you get to see the results especially when I tried using my final web link on different devices (laptop, phone and ipad)
+
+Challenges: Navbar Hamburger dorpdown was a challenge for me. Another point of struggle was wrapping text around the image within a container (About/ Index Page).
+
+Lots to learn!
+
+
+
+
+INSTRUCTIONS BELOW:
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
