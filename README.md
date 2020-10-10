@@ -16,6 +16,8 @@ I felt this expercise was fun and very rewarding once you get to see the results
 
 Challenges: Navbar Hamburger dorpdown was a challenge for me. Another point of struggle was wrapping text around the image within a container (About/ Index Page).
 
+UPDATE: Yoo Hoo!! Finally found a way to wrap text around the image!!
+
 Lots to learn!
 
 

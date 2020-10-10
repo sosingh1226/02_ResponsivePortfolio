@@ -11,4 +11,6 @@ body  {
     background-color: palegoldenrod;
     color: darkred;
     text-align: center;
+    font-family: 'Sacramento', cursive, 'Amatic SC', cursive;
+    font-size: 30px;
 }
